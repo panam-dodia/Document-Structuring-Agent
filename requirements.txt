@@ -1,0 +1,13 @@
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+pdfplumber
+pypdf
+python-dotenv
+tiktoken
+pypandoc
+python-docx
+xhtml2pdf
+markdown
