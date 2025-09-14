@@ -11,3 +11,5 @@ pypandoc
 python-docx
 xhtml2pdf
 markdown
+scikit-learn
+numpy
