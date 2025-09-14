@@ -1,5 +1,3 @@
-# Document-Structuring-Agent
-AI-powered tool that transforms unstructured documents into well-organized content
 # Document Structuring Agent 🤖📄
 
 An advanced AI-powered tool that transforms unstructured documents (PDF, DOCX, TXT) into beautifully organized, structured content using OpenAI's GPT-4 and sophisticated document processing techniques.
