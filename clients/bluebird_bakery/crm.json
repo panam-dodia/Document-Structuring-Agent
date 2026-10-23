@@ -1,0 +1,20 @@
+{
+  "_comment": "SYNTHETIC TEST DATA. Fictional business; EIN, address and phone are deliberately invalid placeholders.",
+  "client_id": "CRM-000042",
+  "company": {
+    "legal_name": "Bluebird Bakery LLC",
+    "dba_name": "Bluebird Bakery",
+    "entity_type": "LLC",
+    "address": {
+      "street": "123 Example Street, Suite 0",
+      "city": "Anytown",
+      "state": "ST",
+      "postal_code": "00000"
+    },
+    "phone": "555-0100"
+  },
+  "tax": {
+    "ein": "000000000"
+  },
+  "account_manager": "Jane Placeholder"
+}

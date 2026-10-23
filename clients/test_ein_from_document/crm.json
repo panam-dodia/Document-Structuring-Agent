@@ -1,0 +1,18 @@
+{
+  "_comment": "SYNTHETIC TEST CLIENT for the hybrid regex/LLM extraction. Same fake business as bluebird_bakery, but the CRM has NO EIN, so it must come from bank_account_summary.pdf.",
+  "client_id": "CRM-TEST-001",
+  "company": {
+    "legal_name": "Bluebird Bakery LLC",
+    "dba_name": "Bluebird Bakery",
+    "entity_type": "LLC",
+    "address": {
+      "street": "123 Example Street, Suite 0",
+      "city": "Anytown",
+      "state": "ST",
+      "postal_code": "00000"
+    }
+  },
+  "tax": {
+    "llc_tax_classification": "P"
+  }
+}
